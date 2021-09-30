@@ -4,3 +4,39 @@
   box-sizing: border-box;
 }
 
+/* settings layout */
+
+body {
+  width: 80%;
+  margin:20px auto;
+}
+
+
+header {
+  height: 100px;
+  background-color:purple;
+  margin-bottom: 20px;
+}
+
+.jamboo {
+    height: 300px;
+    background-color: blue;
+    margin-bottom:20px;
+  }
+
+
+
+footer {
+  height: 50px;
+  background-color: red;
+  margin-top: 10px;
+}
+
+
+/* /settings layout */
+
+/* debug */
+.debug {
+  background-color: yellowgreen;
+  height:400px
+}
